@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:hsl(186, 15%, 59%) ;
+}
+.didi{
+    background-color: hsl(0, 0%, 100%) ;
+    padding: 10px;
+    border-radius: 10px;
+}
+.patara{
+    display: flex;
+    gap: 10px;
+}
+.input{
+width: 200px;
+height: 30px;
+}
+.big{
+    width: 400px;
+    height: 70px;
+}
+.Check{
+    display: flex;
+    gap: 10px;
+}
+button{
+    background-color: hsl(169, 82%, 27%) ;
+    width: 450px;
+    height: 30px;
+    border: none;
+}
+.Email{
+    width:450px ;
+    height: 30px;
+    border-radius:10px ;
+}
+h1{
+   color: hsl(187, 24%, 22%) ;
+}
